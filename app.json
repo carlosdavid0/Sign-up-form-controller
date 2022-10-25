@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "forms",
-    "slug": "forms",
+    "name": "React Native form sign in",
+    "slug": "React Native form sign in",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
